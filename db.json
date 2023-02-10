@@ -8,7 +8,8 @@
             "author": "Dapur Cantik Channel",
             "views": 185000,
             "duration": 8, 
-            "url": "https://www.youtube.com/embed/NNPlP9mwnr0"
+            "url": "https://www.youtube.com/embed/NNPlP9mwnr0",
+            "tag" : "dinner"
             },
             {
                 "id": 2,
@@ -18,7 +19,8 @@
             "author": "tri pujis",
             "views": 7300000,
             "duration": 16,
-            "url": "https://www.youtube.com/embed/MWavsCSoVHw"
+            "url": "https://www.youtube.com/embed/MWavsCSoVHw",
+            "tag" : "dinner"
             },
             {
                 "id": 3,
@@ -28,7 +30,8 @@
             "author": "KAZAN",
             "views": 1900000,
             "duration": 3,
-            "url" : "https://www.youtube.com/embed/Cj7tP-GnYpw"
+            "url" : "https://www.youtube.com/embed/Cj7tP-GnYpw",
+            "tag" : "lunch"
             },
             {
                 "id": 4,
@@ -38,7 +41,8 @@
             "author": "Delmiras Cooking",
             "views": 2300000,
             "duration": 16,
-            "url": "https://www.youtube.com/embed/gtWKFWQXwqI"
+            "url": "https://www.youtube.com/embed/gtWKFWQXwqI",
+            "tag" : "snack"
             },
             {
             "id":5,
@@ -48,7 +52,8 @@
             "author": "Willgoz kitchen",
             "views": 2600000,
             "duration": 11,
-            "url" : "https://www.youtube.com/embed/iA1UqQWssDo"
+            "url" : "https://www.youtube.com/embed/iA1UqQWssDo",
+            "tag" : "lunch"
             },
             {
                 "id":6,
@@ -58,7 +63,8 @@
             "author": "Tasty Recipe",
             "views": 2600000,
             "duration": 57,
-            "url": "https://www.youtube.com/embed/og58R1nfzkU"
+            "url": "https://www.youtube.com/embed/og58R1nfzkU",
+            "tag" : "snack"
             }
     ]
 }
